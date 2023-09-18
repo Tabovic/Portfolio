@@ -1,0 +1,31 @@
+.gradient-background {
+    background: linear-gradient(300deg, #222222, #97451f, #044343);
+    background-size: 180% 180%;
+    animation: gradient-animation 10s ease infinite;
+}
+
+body{
+    background-color: #E4E4E4;
+}
+.nav-pills li a{
+    color: white;
+}
+
+.mb-4{
+    color: white;
+}
+
+.section-2 h1{
+    color: #f77e33;
+    font-weight: bolder;
+}
+
+.section-2 p{
+    color: #F7B633;
+}
+
+.my-photo{
+    border-radius: 50%;
+    height: 200px;
+}
+
